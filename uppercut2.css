@@ -1,0 +1,26 @@
+body{ box-sizing: border-box; background-image: url(upper2.jpg);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;}
+
+h1 { 
+    color: whitesmoke; }
+
+h2{
+    color: white
+}
+
+.titulo{
+    background-color: red;
+    height: 75px;
+    text-align: center;
+    padding: 1px;}
+
+.texto1{
+    background-color: rgb(155, 12, 12);
+    height: 100px;
+    text-align: center;
+    padding: 1px;}
+
+.espacio{height: 10px;}
